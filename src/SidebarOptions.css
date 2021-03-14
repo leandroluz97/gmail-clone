@@ -35,3 +35,10 @@
 .sidebar--active > p {
   opacity: 1;
 }
+.sidebar--active > h3 {
+  font-weight: 700;
+}
+.sidebar--active {
+  color: rgb(221, 51, 51);
+  background-color: rgba(221, 51, 51, 0.1);
+}
